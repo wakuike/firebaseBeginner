@@ -1,0 +1,6 @@
+framework module Pods_firebaseBeginner_firebaseBeginnerUITests {
+  umbrella header "Pods-firebaseBeginner-firebaseBeginnerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
